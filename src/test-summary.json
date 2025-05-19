@@ -1,0 +1,152 @@
+{
+  "2024-12-23T05:53:12.010Z": [
+    {
+      "testId": "1.2.1",
+      "testName": "Logo Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.2.2",
+      "testName": "Language Button Testing",
+      "passed": false,
+      "errorMessage": "Error with 'Sin' button: element click intercepted: Element <button class=\"px-4 py-1 rounded-l-full transition-all duration-300 ease-in-out rounded-r-full capitalize bg-white text-black\">...</button> is not clickable at point (134, 76). Other element would receive the click: <div class=\"w-[calc(100vw)] h-[calc(100vh)] text-[#292929] fixed top-0 left-0 p-5 bg-black/20 backdrop-blur-sm flex items-center justify-center z-[5000] transform transition-all duration-1000 ease-in-out\">...</div>\n  (Session info: chrome=131.0.6778.205)"
+    },
+    {
+      "testId": "1.3",
+      "testName": "Currency Dropdown Testing",
+      "passed": false,
+      "errorMessage": "USD and/or LKR options are missing"
+    },
+    {
+      "testId": "1.2.4",
+      "testName": "Country Selection Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.2.5",
+      "testName": "Notification Bell Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.2.6",
+      "testName": "Navbar Buttons Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.3.2",
+      "testName": "Beauty & Wellness Button Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.4.2",
+      "testName": "Logo Testing",
+      "passed": true,
+      "errorMessage": null
+    }
+  ],
+  "2024-12-23T05:55:14.029Z": [
+    {
+      "testId": "1.2.1",
+      "testName": "Logo Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.2.2",
+      "testName": "Language Button Testing",
+      "passed": false,
+      "errorMessage": "Error with 'Sin' button: element click intercepted: Element <button class=\"px-4 py-1 rounded-l-full transition-all duration-300 ease-in-out rounded-r-full capitalize bg-white text-black\">...</button> is not clickable at point (134, 76). Other element would receive the click: <div class=\"w-[calc(100vw)] h-[calc(100vh)] text-[#292929] fixed top-0 left-0 p-5 bg-black/20 backdrop-blur-sm flex items-center justify-center z-[5000] transform transition-all duration-1000 ease-in-out\">...</div>\n  (Session info: chrome=131.0.6778.205)"
+    },
+    {
+      "testId": "1.3",
+      "testName": "Currency Dropdown Testing",
+      "passed": false,
+      "errorMessage": "USD and/or LKR options are missing"
+    },
+    {
+      "testId": "1.2.4",
+      "testName": "Country Selection Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.2.5",
+      "testName": "Notification Bell Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.2.6",
+      "testName": "Navbar Buttons Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.3.2",
+      "testName": "Beauty & Wellness Button Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.4.2",
+      "testName": "Logo Testing",
+      "passed": true,
+      "errorMessage": null
+    }
+  ],
+  "2024-12-23T05:58:15.685Z": [
+    {
+      "testId": "1.2.1",
+      "testName": "Logo Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.2.2",
+      "testName": "Language Button Testing",
+      "passed": false,
+      "errorMessage": "Error with 'Sin' button: element click intercepted: Element <button class=\"px-4 py-1 rounded-l-full transition-all duration-300 ease-in-out rounded-r-full capitalize bg-white text-black\">...</button> is not clickable at point (134, 76). Other element would receive the click: <div class=\"w-[calc(100vw)] h-[calc(100vh)] text-[#292929] fixed top-0 left-0 p-5 bg-black/20 backdrop-blur-sm flex items-center justify-center z-[5000] transform transition-all duration-1000 ease-in-out\">...</div>\n  (Session info: chrome=131.0.6778.205)"
+    },
+    {
+      "testId": "1.3",
+      "testName": "Currency Dropdown Testing",
+      "passed": false,
+      "errorMessage": "USD and/or LKR options are missing"
+    },
+    {
+      "testId": "1.2.4",
+      "testName": "Country Selection Testing",
+      "passed": false,
+      "errorMessage": "Country Dropdown Testing Error: Unable to interact with dropdown - TimeoutError: Waiting for element to be located By(css selector, body > maiyugn > div.w-full.bg-primary.hidden.md\\:flex.items-center.justify-center.sticky.top-0.z-\\[2000\\] > div > div.flex.flex-col.xl\\:flex-row.gap-x-4 > div > div.w-\\[94px\\].py-1.px-2.relative.ease-in-out.duration-300.transition-all.rounded-l-full.rounded-r-full.bg-white.cursor-pointer.text-black.uppercase.flex.items-center.justify-center.gap-x-2)\nWait timed out after 20117ms"
+    },
+    {
+      "testId": "1.2.5",
+      "testName": "Notification Bell Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.2.6",
+      "testName": "Navbar Buttons Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.3.2",
+      "testName": "Beauty & Wellness Button Testing",
+      "passed": true,
+      "errorMessage": null
+    },
+    {
+      "testId": "1.4.2",
+      "testName": "Logo Testing",
+      "passed": true,
+      "errorMessage": null
+    }
+  ]
+}

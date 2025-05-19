@@ -1,0 +1,30 @@
+
+======================================================================================================
+2025-03-03 07:41:53 INFO: Final Summary for Project: Bookmei.com Frontend Consumer Web App
+======================================================================================================
+
+------------------------------------------------------------------------------------    
+TEST SUITE 1: HOME PAGE TESTING Overview
+------------------------------------------------------------------------------------
+- Total Steps Executed: 1
+- Total Tests ✅ PASSED: 0
+- Total Tests ❌ FAILED: 1
+
+     - 2025-03-03 07:41:53 INFO: [TEST CASE: ] Unknown Test Testing FAILED.
+           - 2025-03-03 07:41:53 INFO: [TEST CASE: ERROR] Error during home page testing: WebDriverError: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=133.0.6943.142)
+
+------------------------------------------------------------------------------------
+
+======================================================================================================
+OVERALL TEST RESULTS:
+------------------------------------------------------------------------------------
+Total Test Suites: 1
+Total Steps Executed: 1
+Total Tests ✅ PASSED: 0
+Total Tests ❌ FAILED: 1
+Overall Status: ❌ FAILED
+Total Duration: 7 SECONDS
+======================================================================================================
+2025-03-03 07:41:53 INFO: Testing Suite Completed for Project: Bookmei.com Frontend Consumer Web App
+======================================================================================================
